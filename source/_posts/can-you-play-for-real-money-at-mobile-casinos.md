@@ -4,7 +4,7 @@ date: 2022-04-14 17:39:23
 tags:
 ---
 
-![Can you play for real money on mobile casinos](https://i.imgur.com/MosY7wD.jpg)  
+![Can you play for real money on mobile casinos](https://i.imgur.com/MosY7wD.jpg)
 
 Many mobile casino games have been specifically designed for this type of device. They are easy to use and play and are also designed with smaller screens in mind. One of the best things about mobile gaming is the ease of accessibility. Whether you prefer to **play slots** or roulette by pressing the left or right arrow button, you can find a mobile casino game that suits you. This is why many mobile casino games have become so popular.
 
@@ -62,5 +62,4 @@ If you're a casual player who wants to play poker but does not want to spend all
 
 #### Reference:
 
-[1]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5516195/	"Understanding the psychology of mobile gambling - NCBI"
-
+[1]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5516195/ "Understanding the psychology of mobile gambling - NCBI"
