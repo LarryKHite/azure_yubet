@@ -64,3 +64,5 @@ Scratch cards in casino games pay real money are great ways to boost your bankro
 
 [1]: https://digitalscholarship.unlv.edu/grrj/vol3/iss1/6/ "Analysis of Video Poker" by Edward Gordon"
 [2]: http://lgcb.dps.louisiana.gov/revenue_reports_video.html "Video Poker Revenue Reports - Louisiana.gov"
+[3]: https://yubet.info/malaysia	"Casinos Near Me in Malaysia"
+
