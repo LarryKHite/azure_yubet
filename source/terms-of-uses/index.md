@@ -1,6 +1,6 @@
 ---
 title: Terms Of Uses
-date: 2022-02-11 20:00:34
+date: 2022-04-11 20:00:34
 ---
 
 Please read these Terms and Conditions (“Terms”, “Terms and Conditions”) carefully before using the https://green-tree-01d112110.1.azurestaticapps.net website (the “Service”) operated by Angela Carter (“us”, “we”, or “our”).

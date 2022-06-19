@@ -13,7 +13,7 @@ timezone: ""
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://green-tree-01d112110.1.azurestaticapps.net/
+url: https://gentle-grass-02e8efc10.1.azurestaticapps.net/
 root: /
 permalink: :title/
 permalink_defaults:
@@ -99,7 +99,7 @@ theme: light
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: git@github.com:LarryKHite/reynolds.git
+  repository:
   branch: main
 
 feed:
